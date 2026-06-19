@@ -36,3 +36,21 @@ Significant use of AI tools should be documented where required by the course gu
 ## Agreement
 
 All team members agree to use AI tools responsibly and in accordance with the University's academic integrity policies.
+
+# AI Usage Log.
+
+## 2026-06-19
+
+### Tool Used
+-ChatGPT
+
+### Purpose
+AI assistance was used to support the preparation of week 3 deliverables including:
+-Repository setup and organization
+-Team Charter development
+
+### Human Review
+All AI-generated suggestions and content were reviewed and verified by the team members before use.
+
+### Responsibility Statement
+The team remains fully responsible for all submitted work and acknowledges that AI assistance does not replace individual understanding or accountability
